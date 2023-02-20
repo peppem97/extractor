@@ -1,0 +1,494 @@
+[
+    {
+        "classe": "3H",
+        "materia": "TPSIT",
+        "alunni": [
+            {
+                "cognome": "ALONCI",
+                "nome": "ALFONSO PIO",
+                "voto": true
+            },
+            {
+                "cognome": "BELLAVIA",
+                "nome": "GIUSEPPE",
+                "voto": true
+            },
+            {
+                "cognome": "BONSIGNORE",
+                "nome": "PASQUALE SAVIO",
+                "voto": true
+            },
+            {
+                "cognome": "CALANDRA",
+                "nome": "ALESSIO",
+                "voto": true
+            },
+            {
+                "cognome": "CARUANA",
+                "nome": "BARBARA",
+                "voto": false
+            },
+            {
+                "cognome": "CIGNA",
+                "nome": "GABRIELE",
+                "voto": true
+            },
+            {
+                "cognome": "DUMITRU POPOVICI",
+                "nome": "ROBERT",
+                "voto": false
+            },
+            {
+                "cognome": "EL ANOUARI",
+                "nome": "LAILA",
+                "voto": true
+            },
+            {
+                "cognome": "FIANNACA",
+                "nome": "GIOVANNI",
+                "voto": true
+            },
+            {
+                "cognome": "GALLEJA",
+                "nome": "ANTONIO",
+                "voto": true
+            },
+            {
+                "cognome": "GIUFFRIDA",
+                "nome": "SAMUELE",
+                "voto": true
+            },
+            {
+                "cognome": "LO PRESTI",
+                "nome": "MARCO",
+                "voto": true
+            },
+            {
+                "cognome": "MELI",
+                "nome": "TOMMASO",
+                "voto": true
+            },
+            {
+                "cognome": "MENDOLIA CALELLA",
+                "nome": "CALOGERO",
+                "voto": true
+            },
+            {
+                "cognome": "NANTELE",
+                "nome": "LEONARDO",
+                "voto": false
+            },
+            {
+                "cognome": "NOTONICA",
+                "nome": "GABRIELE",
+                "voto": false
+            },
+            {
+                "cognome": "PERSICO",
+                "nome": "DOMENICO CHRISTIAN",
+                "voto": false
+            },
+            {
+                "cognome": "PUGLISI",
+                "nome": "CRISTIANO BENEDETTO",
+                "voto": true
+            },
+            {
+                "cognome": "SAIEVA",
+                "nome": "GABRIELE",
+                "voto": false
+            },
+            {
+                "cognome": "SCHILLACI",
+                "nome": "MARIA MORENA",
+                "voto": true
+            },
+            {
+                "cognome": "SUTERA SARDO",
+                "nome": "VINCENZO",
+                "voto": true
+            },
+            {
+                "cognome": "TAIBI",
+                "nome": "SILVIO",
+                "voto": false
+            },
+            {
+                "cognome": "TEDESCO",
+                "nome": "SALVATORE",
+                "voto": true
+            },
+            {
+                "cognome": "TRAINA",
+                "nome": "BEATRICE MARIA",
+                "voto": false
+            },
+            {
+                "cognome": "VITELLARO",
+                "nome": "VERONICA",
+                "voto": false
+            },
+            {
+                "cognome": "ZARBO",
+                "nome": "GIOVANNI",
+                "voto": false
+            }
+        ]
+    },
+    {
+        "classe": "4H",
+        "materia": "TPSIT",
+        "alunni": [
+            {
+                "cognome": "ACQUISTO",
+                "nome": "SERENA",
+                "voto": true
+            },
+            {
+                "cognome": "CRAPANZANO",
+                "nome": "KRISTIAN DANIELE",
+                "voto": true
+            },
+            {
+                "cognome": "DANELLI",
+                "nome": "FLAVIO",
+                "voto": true
+            },
+            {
+                "cognome": "DI VINCENZO",
+                "nome": "LORENZO",
+                "voto": false
+            },
+            {
+                "cognome": "FRANCO JARAMILLO",
+                "nome": "MATEO",
+                "voto": true
+            },
+            {
+                "cognome": "GALVANO",
+                "nome": "EMMANUEL",
+                "voto": true
+            },
+            {
+                "cognome": "ITALIA",
+                "nome": "FRANCESCO",
+                "voto": true
+            },
+            {
+                "cognome": "LO GRANDE",
+                "nome": "GIOVANNI",
+                "voto": false
+            },
+            {
+                "cognome": "MICALEF",
+                "nome": "FLAVIO",
+                "voto": false
+            },
+            {
+                "cognome": "MOSCATO",
+                "nome": "FRANCESCO",
+                "voto": true
+            },
+            {
+                "cognome": "PALUMBO",
+                "nome": "MATTIA",
+                "voto": true
+            },
+            {
+                "cognome": "PICARELLA",
+                "nome": "ILARIA",
+                "voto": false
+            },
+            {
+                "cognome": "PINZELLO",
+                "nome": "GAETANO",
+                "voto": true
+            },
+            {
+                "cognome": "RANDISI",
+                "nome": "GIOVANNI",
+                "voto": false
+            },
+            {
+                "cognome": "ZIRAFA",
+                "nome": "SIMONE",
+                "voto": false
+            }
+        ]
+    },
+    {
+        "classe": "3F",
+        "materia": "SISTEMI E RETI",
+        "alunni": [
+            {
+                "cognome": "BAGLIERI",
+                "nome": "DIEGO",
+                "voto": true
+            },
+            {
+                "cognome": "BANDIERA",
+                "nome": "GIUSEPPE BENEDETTO",
+                "voto": true
+            },
+            {
+                "cognome": "BONGIORNO",
+                "nome": "GIONATHAN",
+                "voto": true
+            },
+            {
+                "cognome": "BUTTICE'",
+                "nome": "EMANUELE",
+                "voto": true
+            },
+            {
+                "cognome": "COTTONE",
+                "nome": "VINCENZO",
+                "voto": false
+            },
+            {
+                "cognome": "DI CARO",
+                "nome": "SALVATORE",
+                "voto": false
+            },
+            {
+                "cognome": "FERRERA",
+                "nome": "CALTON",
+                "voto": true
+            },
+            {
+                "cognome": "GANGAROSSA",
+                "nome": "ALFONSO",
+                "voto": true
+            },
+            {
+                "cognome": "GIANNONE",
+                "nome": "EROS",
+                "voto": false
+            },
+            {
+                "cognome": "GRASSADONIO",
+                "nome": "SIMONE",
+                "voto": false
+            },
+            {
+                "cognome": "GUCCIARDINO",
+                "nome": "SERGIO",
+                "voto": true
+            },
+            {
+                "cognome": "IACOLINO",
+                "nome": "GIUSEPPE DOMENICO",
+                "voto": false
+            },
+            {
+                "cognome": "INFURNA",
+                "nome": "KAROLA",
+                "voto": false
+            },
+            {
+                "cognome": "MANTISI",
+                "nome": "FLAVIO",
+                "voto": false
+            },
+            {
+                "cognome": "MARINARO",
+                "nome": "CALOGERO",
+                "voto": false
+            },
+            {
+                "cognome": "MICALIZIO",
+                "nome": "MATTEO",
+                "voto": false
+            },
+            {
+                "cognome": "MONDELLO",
+                "nome": "ROSARIO",
+                "voto": false
+            },
+            {
+                "cognome": "TRAVALE",
+                "nome": "ISMAELE BERNARDO",
+                "voto": true
+            }
+        ]
+    },
+    {
+        "classe": "4F",
+        "materia": "SISTEMI E RETI",
+        "alunni": [
+            {
+                "cognome": "BURGIO",
+                "nome": "MANUEL",
+                "voto": true
+            },
+            {
+                "cognome": "CINQUE",
+                "nome": "LORIS CIRO PIO",
+                "voto": false
+            },
+            {
+                "cognome": "FONTANA",
+                "nome": "ANDREA",
+                "voto": false
+            },
+            {
+                "cognome": "IACONO",
+                "nome": "GIOVANNI",
+                "voto": false
+            },
+            {
+                "cognome": "LENTINI",
+                "nome": "SETTIMO",
+                "voto": true
+            },
+            {
+                "cognome": "MICCICHE'",
+                "nome": "CHRISTIAN EMANUELE",
+                "voto": false
+            },
+            {
+                "cognome": "MICELI",
+                "nome": "CRISTIAN",
+                "voto": true
+            },
+            {
+                "cognome": "NOTO",
+                "nome": "CAMPANELLA ALFONSO",
+                "voto": true
+            },
+            {
+                "cognome": "PROIETTO",
+                "nome": "MICHELE DOMENICO",
+                "voto": true
+            },
+            {
+                "cognome": "SALVO",
+                "nome": "GIUSEPPE",
+                "voto": true
+            },
+            {
+                "cognome": "SARDO",
+                "nome": "SILVIO KAROL",
+                "voto": false
+            },
+            {
+                "cognome": "VACCARELLO",
+                "nome": "CALOGERO",
+                "voto": false
+            },
+            {
+                "cognome": "VECCHIO",
+                "nome": "VINCENZO",
+                "voto": false
+            }
+        ]
+    },
+    {
+        "classe": "5F",
+        "materia": "SISTEMI E RETI",
+        "alunni": [
+            {
+                "cognome": "BONGIORNO",
+                "nome": "FEDERICO",
+                "voto": true
+            },
+            {
+                "cognome": "BURGIO",
+                "nome": "DAVIDE",
+                "voto": true
+            },
+            {
+                "cognome": "CEFALU'",
+                "nome": "STEFANIA",
+                "voto": true
+            },
+            {
+                "cognome": "CIOFALO",
+                "nome": "SALVATORE LUIGI",
+                "voto": true
+            },
+            {
+                "cognome": "CIULLA",
+                "nome": "GABRIELE",
+                "voto": true
+            },
+            {
+                "cognome": "COLLURA",
+                "nome": "CRISTIANO",
+                "voto": true
+            },
+            {
+                "cognome": "CRAPA",
+                "nome": "AURORA",
+                "voto": true
+            },
+            {
+                "cognome": "CRAPANZANO",
+                "nome": "GIUSEPPE",
+                "voto": true
+            },
+            {
+                "cognome": "FORTUNATO",
+                "nome": "DANILO CALOGERO",
+                "voto": true
+            },
+            {
+                "cognome": "GALLO CASSARINO",
+                "nome": "ALESSIO",
+                "voto": true
+            },
+            {
+                "cognome": "MICELI",
+                "nome": "FABIANA",
+                "voto": true
+            },
+            {
+                "cognome": "NOTARSTEFANO",
+                "nome": "MATTEO GIOACCHINO",
+                "voto": true
+            },
+            {
+                "cognome": "PASSARELLO",
+                "nome": "FRANCESCO",
+                "voto": true
+            },
+            {
+                "cognome": "PIERINI",
+                "nome": "GABRIEL",
+                "voto": false
+            },
+            {
+                "cognome": "PISANO",
+                "nome": "MARTIN SAMUEL",
+                "voto": true
+            },
+            {
+                "cognome": "PLANO",
+                "nome": "ANDREA",
+                "voto": true
+            },
+            {
+                "cognome": "SEMINERIO",
+                "nome": "GIORDANO MARIA",
+                "voto": true
+            },
+            {
+                "cognome": "STRAZZERI",
+                "nome": "MARCO",
+                "voto": false
+            },
+            {
+                "cognome": "VALENTE",
+                "nome": "SIMONE MARIA",
+                "voto": false
+            },
+            {
+                "cognome": "VOLPE",
+                "nome": "GIULIANO",
+                "voto": true
+            }
+        ]
+    }
+
+]
+
